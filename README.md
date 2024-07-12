@@ -1,5 +1,13 @@
 # React Shopping Cart (REDUX TOOLKİT)
 
+`React` shopping cart `REDUX TOOLKIT`, `SWIPERJS`, `ROUTER-DOM` was used to create. <br><br>
+
+For CSS I used `SCSS`
+
+There are 3 pages in Shopping Cart.<br>
+1-Home Page <br>
+2-Shop Page <br>
+3-Cart Page <br>
 
 ## Demo
 https://mrtmrngz-react-rtk-shopping-cart.onrender.com/
