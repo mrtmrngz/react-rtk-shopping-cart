@@ -2,7 +2,7 @@
 
 `React` shopping cart `REDUX TOOLKIT`, `SWIPERJS`, `ROUTER-DOM` was used to create. <br>
 
-For CSS I used `SCSS`. <br><br>
+For CSS I used `SCSS`. <br>
 
 There are 3 pages in Shopping Cart.<br>
 1-Home Page <br>
