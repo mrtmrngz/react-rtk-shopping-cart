@@ -1,0 +1,5 @@
+static:
+  - source: .
+    destination: .
+    entrypoint: index.html
+    clean_urls: true
