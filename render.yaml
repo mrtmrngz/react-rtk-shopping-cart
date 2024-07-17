@@ -1,5 +1,4 @@
-static:
-  - source: .
-    destination: .
-    entrypoint: index.html
-    clean_urls: true
+redirects:
+  - source: /.*
+    destination: /index.html
+    status: 200
